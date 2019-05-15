@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\c7a86a96f18c8996ab0444430c381446\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3cfdf09ec33e2a6f685a5215ec01f2bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\0b012383b64cdfa31dedf02447aaf32e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\97e9e7803086ca7394393e6bc3e19aeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\7c70e06f025cd9dfe94fd274f8b5cf8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\54acb08bef19049c0269e1660e61e466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\a4ebfa7650e80f2f8b3cbb5b25758904\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b788ea46feadb095cf279187602e6fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3dce86061a21c60cf65ed9223a441ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\914343b864e8fb870759b96ab1cd57f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\fe02eab03f8efb87ed393dcfbc9e5c32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\6929a7992b1d737c883d439f7ba5b118\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b19fed4797228a46a9fe360e2ae3fdfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\2aaff740b7170aa744fdebd5786d0982\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\e7a01844633b5c4dd5de2acb84ed71a5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\431091f08b30205a657b5481fff2fbb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\f6cef7d8ef57a459e7743729ff805aef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\9ea1cd091bdb61584e8a43c5757d0ea0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\c7a86a96f18c8996ab0444430c381446\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\c7a86a96f18c8996ab0444430c381446\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\c7a86a96f18c8996ab0444430c381446\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\c7a86a96f18c8996ab0444430c381446\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3cfdf09ec33e2a6f685a5215ec01f2bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3cfdf09ec33e2a6f685a5215ec01f2bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\0b012383b64cdfa31dedf02447aaf32e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\0b012383b64cdfa31dedf02447aaf32e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\97e9e7803086ca7394393e6bc3e19aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\97e9e7803086ca7394393e6bc3e19aeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\7c70e06f025cd9dfe94fd274f8b5cf8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\7c70e06f025cd9dfe94fd274f8b5cf8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\54acb08bef19049c0269e1660e61e466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\54acb08bef19049c0269e1660e61e466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\a4ebfa7650e80f2f8b3cbb5b25758904\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\a4ebfa7650e80f2f8b3cbb5b25758904\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b788ea46feadb095cf279187602e6fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b788ea46feadb095cf279187602e6fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3dce86061a21c60cf65ed9223a441ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\3dce86061a21c60cf65ed9223a441ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\914343b864e8fb870759b96ab1cd57f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\914343b864e8fb870759b96ab1cd57f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\fe02eab03f8efb87ed393dcfbc9e5c32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\fe02eab03f8efb87ed393dcfbc9e5c32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\6929a7992b1d737c883d439f7ba5b118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\6929a7992b1d737c883d439f7ba5b118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b19fed4797228a46a9fe360e2ae3fdfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\b19fed4797228a46a9fe360e2ae3fdfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\2aaff740b7170aa744fdebd5786d0982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\2aaff740b7170aa744fdebd5786d0982\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\e7a01844633b5c4dd5de2acb84ed71a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\e7a01844633b5c4dd5de2acb84ed71a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\431091f08b30205a657b5481fff2fbb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\431091f08b30205a657b5481fff2fbb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\f6cef7d8ef57a459e7743729ff805aef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\f6cef7d8ef57a459e7743729ff805aef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\9ea1cd091bdb61584e8a43c5757d0ea0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\joshu\.gradle\caches\transforms-2\files-2.1\9ea1cd091bdb61584e8a43c5757d0ea0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\src\main\AndroidManifest.xml

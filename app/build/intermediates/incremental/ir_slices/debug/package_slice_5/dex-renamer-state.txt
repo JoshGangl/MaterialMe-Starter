@@ -1,0 +1,4 @@
+#Tue May 14 21:39:26 EDT 2019
+base.0=C\:\\Users\\joshu\\OneDrive\\KetteringWork\\Spring_2019\\CE-450_Lab\\Lab5\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
