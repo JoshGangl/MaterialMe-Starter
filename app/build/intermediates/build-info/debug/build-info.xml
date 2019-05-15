@@ -2,29 +2,30 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="28"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="440dpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.4.0"
-    timestamp="1557888237078"
+    timestamp="1557888828472"
     token="1971906357362471866"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="292" />
+        duration="188" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="23" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
     <artifact
-        location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
 
     <build
@@ -80,10 +81,16 @@
             location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
+            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1557888672444"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -92,21 +99,22 @@
             location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="HOT_WARM"
-        timestamp="1557888237078"
-        verifier="COMPATIBLE" >
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1557888828472"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\joshu\OneDrive\KetteringWork\Spring_2019\CE-450_Lab\Lab5\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
     </build>
 
